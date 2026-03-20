@@ -50,7 +50,11 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-![Winning game screenshot](demo.jpeg)
+![Winning game screenshot](winning-game.jpeg)
+
+## 🧪 Pytest Results
+
+![All 7 tests passing](tests.jpeg)
 
 ## 🚀 Stretch Features
 
